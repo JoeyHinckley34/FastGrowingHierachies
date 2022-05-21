@@ -1,4 +1,7 @@
-This code calculates the Fast Growing Hierarchy
+# Fast Growing Heirachies
+This is the output of the code which explains what the code is doing !
+
+This code calculates the Fast Growing Hierarchy
 Which is a set of functions used to aproximate massive numbers
 
 F0(n) is equal to n+1
@@ -32,6 +35,6 @@ F4:  0 2
 F4(2) = F3(F3(2)) = F3(2048) Which is riduclous
 Quickly reached the limit of my computing power using only addition
 Since I am using recusion writing F5 and so on is rather simple
-Just the numbers get to big for my computer to handle
+Just the numbers get too big for my computer to handle
 Loading f2(29): 
 15569256448
