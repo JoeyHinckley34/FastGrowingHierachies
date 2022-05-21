@@ -1,6 +1,8 @@
 # Fast Growing Heirachies
-This is the output of the code which explains what the code is doing ! <br />
-
+This repository explains what The Fast Growing Heirarchy is as well as implementing the first five functions in C++<br />
+Run it on your machine to see how fast you can calculate F2(29)
+This is the of the code which explains what the code is doing ! <br />
+## Code Output 
 This code calculates the Fast Growing Hierarchy <br />
 Which is a set of functions used to aproximate massive numbers <br />
 
@@ -36,5 +38,5 @@ F4(2) = F3(F3(2)) = F3(2048) Which is riduclous <br />
 Quickly reached the limit of my computing power using only addition <br />
 Since I am using recusion writing F5 and so on is rather simple <br />
 Just the numbers get too big for my computer to handle <br />
-Loading f2(29):  <br />
+Loading F2(29):  <br />
 15569256448 <br />
