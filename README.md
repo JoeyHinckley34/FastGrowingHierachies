@@ -1,7 +1,7 @@
 # Fast Growing Heirachies
 This repository explains what The Fast Growing Heirarchy is as well as implementing the first five functions in C++<br />
 Run it on your machine to see how fast you can calculate F2(29) <br />
-This is the of the code which explains what the code is doing ! <br />
+This is the output of the code which explains what the code is doing ! <br />
 ## Code Output 
 This code calculates the Fast Growing Hierarchy <br />
 Which is a set of functions used to aproximate massive numbers <br />
